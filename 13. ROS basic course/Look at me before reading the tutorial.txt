@@ -1,0 +1,1 @@
+The screenshots in this tutorial are not consistent with those on Navrobo, but they do not affect the actual operation. The only difference is the user name and host name, but the operation results are the same.
